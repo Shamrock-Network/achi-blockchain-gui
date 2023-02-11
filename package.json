@@ -90,7 +90,7 @@
     "@loadable/babel-plugin": "^5.13.2",
     "@loadable/webpack-plugin": "^5.14.2",
     "@pmmmwh/react-refresh-webpack-plugin": "^0.5.8",
-    "@svgr/webpack": "^5.5.0",
+    "@svgr/webpack": "^6.5.1",
     "@types/big.js": "^6.0.2",
     "@types/jest": "^26.0.22",
     "@types/lingui__macro": "^2.7.4",
