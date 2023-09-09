@@ -113,7 +113,7 @@
     "concurrently": "^6.0.2",
     "copy-webpack-plugin": "^8.1.1",
     "cross-env": "^7.0.3",
-    "electron": "^22.2.0",
+    "electron": "^22.3.21",
     "electron-osx-sign": "github:electron/electron-osx-sign#master",
     "electron-winstaller": "^5.0.0",
     "eslint": "^7.24.0",
